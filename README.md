@@ -25,9 +25,7 @@ Live Demo at https://praneshajay.netlify.app/
 
 You don't need to install anything to play the game, as it's a web-based project. However, if you'd like to clone the repository and run it locally, you can do so by following these steps:
 
-1. Clone this repository to your local machine:
-   ```bash
-  https://github.com/Praneshajay/Roll-Dice.git
+1. Clone this repository to your local machine:   https://github.com/Praneshajay/Roll-Dice.git
   
 If you have questions, inquiries, or requests related to the code or its usage, please contact praneshajay2005@gmail.com for further information.
 
