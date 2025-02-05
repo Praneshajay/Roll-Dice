@@ -28,5 +28,6 @@ You don't need to install anything to play the game, as it's a web-based project
 1. Clone this repository to your local machine:
    ```bash
   https://github.com/Praneshajay/Roll-Dice.git
-
+  
+If you have questions, inquiries, or requests related to the code or its usage, please contact praneshajay2005@gmail.com for further information.
 
